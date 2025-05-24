@@ -18,8 +18,10 @@
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>
-            <version>21-ea+24</version>
+            <version>23.0.1</version>
         </dependency>
+        <!-- Also update javafx-fxml, javafx-base, etc., to the same version -->
+
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-fxml</artifactId>
